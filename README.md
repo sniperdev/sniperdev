@@ -3,7 +3,13 @@
 Welcome to my page!
 I'm Igor, a Frontend developer from Poznań, Poland.
 
-### Technologies & Tools
+### About me
+- :books: I'm currently learning **Angular** and **RxJS**
+- :heart: I love **React/Angular**
+- :muscle: I'm looking to collaborate on **Angular** projects
+- :speech_balloon: Ask me about **Angular**, **RxJS**, **React**, **TailwindCSS**,
+
+#### Technologies & Tools
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -20,7 +26,11 @@ I'm Igor, a Frontend developer from Poznań, Poland.
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
-Weekly development breakdown
+### Contact
+<a href="mailto:igorspychalaa@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/igorspychala/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+### :bar_chart: Monthly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
