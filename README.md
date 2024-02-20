@@ -5,7 +5,7 @@ I'm Igor, a Frontend developer from Poznań, Poland.
 
 ### About me
 - :books: I'm currently learning **Angular** and **RxJS**
-- :heart: I love **React/Angular**
+- :heart: I love **Angular/React**
 - :muscle: I'm looking to collaborate on **Angular** projects
 - :speech_balloon: Ask me about **Angular**, **RxJS**, **React**, **TailwindCSS**,
 
