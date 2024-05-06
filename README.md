@@ -35,7 +35,7 @@ I'm Igor, a Frontend developer from Poznań, Poland.
 
 ```txt
 Java              5 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.55 %
-TypeScript        4 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
+TypeScript        4 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
 HTML              1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
 JSON              1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
