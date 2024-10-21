@@ -34,11 +34,11 @@ I'm Igor, a Frontend developer from Poznań, Poland.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript         12 hrs 16 mins  ████████████░░░░░░░░░░░░░   48.14 %
-TypeScript         5 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-Java               4 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-Python             46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-.env file          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JavaScript         12 hrs 16 mins  ███████████░░░░░░░░░░░░░░   43.83 %
+TypeScript         5 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+Java               4 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Python             4 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+.env file          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
