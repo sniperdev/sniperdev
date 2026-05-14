@@ -35,7 +35,7 @@ I'm Igor, a Frontend developer from Poznań, Poland.
 
 ```txt
 TypeScript         1 hr 56 mins          █████████░░░░░░░░░░░░░░░░   36.21 %
-Python             1 hr 49 mins          ████████▒░░░░░░░░░░░░░░░░   33.95 %
+Python             1 hr 49 mins          ████████▒░░░░░░░░░░░░░░░░   33.96 %
 Markdown           25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 SQL                11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
